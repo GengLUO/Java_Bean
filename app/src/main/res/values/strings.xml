@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Java Bean</string>
+
+    <string-array name="menu_items">
+        <item>Espresso</item>
+        <item>Cappuccino</item>
+        <item>Latte</item>
+    </string-array>
+
+    <string name="toppings">Toppings</string>
+    //这个得写在一行噢，不能分开写三行
+
+    <string name="quantity">Quantity</string>
+
+    <string name="minusSign">-</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
